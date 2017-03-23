@@ -1,28 +1,83 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Dave and Cheery Tree</title>
+  <!-- Theme Made By www.w3schools.com - No Copyright -->
+  <titl></titl></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  
+  
+     
+.panel {
+      border: 1px solid #c6423e; 
+      border-radius:0 !important;
+      transition: box-shadow 0.5s;
+  }
+  .panel:hover {
+      box-shadow: 5px 0px 40px rgb(198, 66, 62);
+  }
+  .panel-footer .btn:hover {
+      border: 1px solid 	#c6423e ;
+      background-color: #fff !important;
+      color: #c6423e;
+  }
+  .panel-heading {
+      color: #fff !important;
+      background-color: 	#c6423e !important;
+      padding: 25px;
+      border-bottom: 1px solid transparent;
+      border-top-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+  }
+  
+ 
+.fancy {
+font-family: fantasy ;
+color: grey   ;
+font-size:100%;
+}
+.fanca {
+font-family: fantasy;
+color: #c6423e ;
+font-size:200%;
+}
+</style>
+  
 
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  
+  
+  </style>
 </head>
 <body>
-    <nav class="navbar navbar-default">
-        <div class="container-fluid">
-            
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" >
-                 <img alt="global" src="image/global.jpg">
-                     </a>
-                     
-            </div>
-            <ul class="nav navbar-nav navbar-right">
-        <li><a>Najla Ben Ali est connectée </a></li>
-        </ul>
+
+
+       <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" > <p class="fanca">Global Sécurité </p> </a>
+    </div>
+       
+       <ul class="nav navbar-nav navbar-right">
+      <li><a > </a> <p class="fancy">Sign in as Najla Ben Ali </p>  </a></li>
+     
+    </ul>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+ 
+  
+
+    
+</body>
+
+    
+</html>
